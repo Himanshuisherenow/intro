@@ -1,6 +1,6 @@
 import './App.css'
 import { Outlet } from 'react-router-dom';
-import Index from './components'
+import Index from './about/Index'
 import { DefaultSidebar } from './components/DefaultSidebar';
 
 
