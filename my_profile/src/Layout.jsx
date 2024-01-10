@@ -11,7 +11,7 @@ function Layout() {
   return (
     <>
   <div className='flex justify-normal'>
-    <DefaultSidebar/>
+    <DefaultSidebar />
     <Outlet/>
     </div>
     </>

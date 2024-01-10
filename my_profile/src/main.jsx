@@ -2,8 +2,9 @@ import React from 'react'
 import ReactDOM from 'react-dom/client'
 import {Route, RouterProvider, createBrowserRouter, createRoutesFromElements} from 'react-router-dom'
 import Layout from './layout' 
-import About, { githubInfoLoader } from './components/About'
-import Project from './components/Project'
+import About from './components/About'
+import About1 from './components/About1.jsx'
+import Detail from './about/Detail.jsx'
 
 
 
@@ -12,11 +13,13 @@ const router = createBrowserRouter(
   createRoutesFromElements(
     <Route path='/' element={<Layout/>}>
 
-<Route  path='' element={<Project/>}></Route>
-<Route loader={githubInfoLoader} path='about' element={<About/>}></Route>
+<Route  path='' element={<About1/>}></Route>
+    
+<Route path='hobby' element={<About/>}></Route>
+<Route path='project' element={<Detail/>}></Route>
       
      {/* 
-      <Route path='contact' element={<Contact/>}></Route>
+     
       <Route path='user/:userid' element={<User/>}></Route> */}
   
       {/* <Route loader={githubInfoLoader} path='github' element={<Github/>}></Route> */}
