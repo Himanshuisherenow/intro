@@ -5,6 +5,7 @@ import Layout from './layout'
 import About from './components/About'
 import About1 from './components/About1.jsx'
 import Portfolio from './about/Portfolio.jsx'
+import Profile from './profile.jsx'
 
 
 
@@ -18,11 +19,11 @@ const router = createBrowserRouter(
 <Route path='hobby' element={<About/>}></Route>
 <Route path='project' element={<Portfolio/>}></Route>
       
-     {/* 
-     
-      <Route path='user/:userid' element={<User/>}></Route> */}
   
-      {/* <Route loader={githubInfoLoader} path='github' element={<Github/>}></Route> */}
+     
+      <Route path='profile' element={<Profile/>}></Route> 
+  
+
     </Route>
   )
 )
