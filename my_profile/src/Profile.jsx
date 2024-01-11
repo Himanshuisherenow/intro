@@ -11,7 +11,7 @@ function Profile() {
            
 
             <div class="bg-white p-6 rounded-lg shadow-md">
-                <h2 class="text-xl font-bold font-montserrat mb-4">Frontend Development</h2>
+                <h2 class="text-xl font-bold font-stonewash mb-4">Frontend Development</h2>
                 <p class="text-gray-700">Proficient in <span className='text-blue-gray-900 font-semibold'>HTML</span>, <span className='text-blue-gray-900 font-semibold'>CSS</span>, and <span className='text-blue-gray-900 font-semibold'>JavaScript</span>. Experience with modern frameworks like <span className="text-blue-gray-900 font-semibold">React</span></p>
             </div>
 

@@ -14,7 +14,7 @@ function Layout() {
     <Outlet/>
     
     </div>
-    <div>Himanshu</div>
+  
     </>
   
   )

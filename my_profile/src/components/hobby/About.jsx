@@ -5,11 +5,11 @@ function About() {
     return(
 
         <>
-    <div className='bg-green-300 w-full'>
+    <div className='  bg-blue-gray-400  w-full'>
  
 
     <div class="max-w-xl mx-auto">
-        <h1 class="text-4xl font-bold mb-8 text-center">My Hobbies</h1>
+        <h1 class="text-4xl font-bold font-stonewash  m-8 text-center">My Hobbies</h1>
 
         <ul class="grid grid-cols-1 md:grid-cols-2 gap-6">
             <li class="hobby-card bg-white p-6 rounded-lg shadow-md hover:shadow-lg">
