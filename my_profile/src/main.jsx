@@ -5,7 +5,7 @@ import Layout from './Layout.jsx'
 import About from './components/hobby/About'
 import About1 from './components/about/About1.jsx'
 import Portfolio from './project/Portfolio.jsx'
-import Profile from './Profile.jsx'
+import Profile from './profile.jsx'
 
 
 
