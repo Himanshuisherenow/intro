@@ -30,7 +30,7 @@ function About1() {
     /></div>
 
   
-<h1 className='font-serif mb-7  ml-3 text-7xl text-teal-700  '>Himanshu</h1>
+<h1 className='font-serif mb-7  ml-3 text-7xl text-teal-700 '>Himanshu</h1>
 
 <p className='text-2xl text-teal-200 '>Hi, I'm Himanshu Chavda, an aspiring web developer passionate about creating digital experiences. From coding intuitive user interfaces to building robust backend systems, I'm on a continuous learning journey. Excited to contribute my skills to meaningful projects, I'm eager to connect and explore opportunities to make a positive impact through technology.
 

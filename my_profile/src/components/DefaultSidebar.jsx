@@ -100,7 +100,7 @@ import Icon from "./Icon";
 
             </ListItemPrefix>
 
-            Profile
+           Work
          </ListItem>
          </Link>
 
