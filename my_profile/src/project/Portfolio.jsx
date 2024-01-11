@@ -7,19 +7,19 @@ const projects = [
     title: 'Qoute Generator',
     description: 'A simple quote generator.',
     link: 'https://himanshuisherenow.github.io/Qoute_generator/',
-    image: "./src/project/image/q.png",
+    image: "/q.png",
   },
   {
     title: 'Todo App',
     description: 'A simple todo application.',
     link: 'https://todo-app-tau-nine-70.vercel.app/',
-    image: './src/project/image/t.png',
+    image: '/t.png',
   },
   {
     title: 'Bubble Game',
     description: 'A fun bubble-popping game.',
     link: 'https://himanshuisherenow.github.io/bubblegame/',
-    image: './src/project/image/b.png',
+    image: '/b.png',
   },
 ];
 
