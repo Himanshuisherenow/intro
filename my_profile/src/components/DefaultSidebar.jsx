@@ -23,7 +23,7 @@ import Icon from "./Icon";
         <div className="mb-2 p-4">
          <List>
        
-         <img  className="rounded-full h-36 w-36" src="./src/components/20230323_141059.jpg" alt="My photo"></img>
+         <img  className="rounded-full h-36 w-36" src="./src/components/hobby/qwe.jpg" alt="My photo"></img>
 
          
          </List>

@@ -1,10 +1,10 @@
 import React from 'react'
 import ReactDOM from 'react-dom/client'
 import {Route, RouterProvider, createBrowserRouter, createRoutesFromElements} from 'react-router-dom'
-import Layout from './layout' 
-import About from './components/About'
-import About1 from './components/About1.jsx'
-import Portfolio from './about/Portfolio.jsx'
+import Layout from './Layout.jsx' 
+import About from './components/hobby/About'
+import About1 from './components/about/About1.jsx'
+import Portfolio from './project/Portfolio.jsx'
 import Profile from './profile.jsx'
 
 

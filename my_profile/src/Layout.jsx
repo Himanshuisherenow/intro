@@ -1,6 +1,5 @@
 import './App.css'
 import { Outlet } from 'react-router-dom';
-import Index from './about/Index'
 import { DefaultSidebar } from './components/DefaultSidebar';
 
 
@@ -13,7 +12,9 @@ function Layout() {
   <div className='flex justify-normal'>
     <DefaultSidebar />
     <Outlet/>
+    
     </div>
+    <div>Himanshu</div>
     </>
   
   )
